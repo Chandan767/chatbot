@@ -1,0 +1,7 @@
+langchain
+langgraph
+langchain-core
+langchain-groq
+langchain-google-genai
+google-generativeai
+python-dotenv
