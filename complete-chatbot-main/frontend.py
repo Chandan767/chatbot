@@ -5,7 +5,7 @@ from typing import Any,cast
 
 if 'chat_history' not in st.session_state:
     st.session_state['chat_history'] = [{
-        'role':'ai', 'message' : "Helpful assistant"
+        'role':'ai', 'message' : "Helpful assistant , ask anything to get suggestions from this chatbot"
     }]
 
 st.title("Chatbot")
